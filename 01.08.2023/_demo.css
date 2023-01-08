@@ -1,0 +1,19 @@
+#demo .box {
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+#demo .box .minibox {
+  border: 3px solid #98c1d9;
+  width: 100px;
+  height: 100px;
+}
+#demo .box .minibox h2 {
+  color: #3d5a80;
+  font-size: 35px;
+}
+#demo .box .textbox {
+  border: 3px solid #98c1d9;
+  width: 100px;
+  height: 200px;
+}/*# sourceMappingURL=_demo.css.map */
